@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.gifer.com/Q7i2.gif](https://www.palo-it.com/hubfs/New%20Web%20Page%20Visuals/UX_UI_FINAL.gif))]
+[![MasterHead][(https://i.gifer.com/Q7i2.gif](https://www.palo-it.com/hubfs/New%20Web%20Page%20Visuals/UX_UI_FINAL.gif)]
 <h1 align="center">Hi 👋, I'm Tharuka Anjalee</h1>
 <h3 align="center">A passionate UI/UX Design from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*5oiuLeF3ZzHCLBCc.gif">
