@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*al_pKKeefuyLxpWonDhBtQ.gif](https://github.com/TharukaAnjalee/TharukaAnjalee/blob/main/1.gif)]
+![logo](https://github.com/TharukaAnjalee/TharukaAnjalee/blob/main/df392fb90619818047bf4f09e0adbc36.gif)
 <h3 align="center">A passionate UI/UX Design from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*5oiuLeF3ZzHCLBCc.gif">
 
