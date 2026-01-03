@@ -1,6 +1,6 @@
 ![logo](https://github.com/TharukaAnjalee/TharukaAnjalee/blob/main/GIF-Social-Media-Graphic-Design-Example2.gif)
 <h1 align="left">Hi 👋, I'm Tharuka Anjalee</h1>
-<h3 align="left">A passionate UI/UX Designer from Sri Lanka</h3>
+<h3 align="left">Aspiring Full-Stack Developer | Tech Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*5oiuLeF3ZzHCLBCc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharukaanjalee&label=Profile%20views&color=0e75b6&style=flat" alt="tharukaanjalee" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Adobe XD**
 
-- 💬 Ask me about **Design**
+- 💬 Let's talk about **Full-Stack Development** **Design**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
